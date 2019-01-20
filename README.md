@@ -12,6 +12,8 @@ gmusicapi, [google-music](https://github.com/thebigmunch/google-music).
 
 ``pip install google-music-scripts``
 
+Python 3.6 or later required.
+
 
 ## Usage
 
